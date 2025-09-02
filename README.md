@@ -55,8 +55,8 @@ El sistema utiliza lógica difusa para imitar el razonamiento humano y ofrece un
 - Interfaz gráfica amigable con Tkinter.
 - Visualización de funciones de membresía y resultados con Matplotlib.
 - Entradas configurables:
- - Temperatura ambiente
- - Humedad relativa
+   - Temperatura ambiente
+   - Humedad relativa
 - Salida: Temperatura recomendada del aire acondicionado.
 
 ## Tecnologías Utilizadas
